@@ -6,8 +6,13 @@ float euler = 2.7182818;
 float mascheroni = 0.577215664901;
 
 Functions:
-- Integrate(definite)
+- Integrate(indefinite)
+  - Start off with simple power rule
 - Clean-poly
+- Plug in
+- Check double negative
+- Exponents need ()
+- Show correct syntax
   
 Here is how the program will work:
 Might need a table or just use the integral
