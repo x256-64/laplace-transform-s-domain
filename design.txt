@@ -13,6 +13,7 @@ Functions:
 - Check double negative
 - Exponents need ()
 - Show correct syntax
+- validate input functions for T's
   
 Here is how the program will work:
 Might need a table or just use the integral
